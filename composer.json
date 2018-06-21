@@ -1,10 +1,14 @@
 {
-    "name": "wazaari/kasapi-php",
+    "name": "rhurling/kasapi-php",
     "description": "Manage your All-Inkl account with the KAS API for PHP",
     "keywords": ["all-inkl", "API", "KAS", "PHP", "WSDL"],
     "homepage": "https://github.com/waza-ari/kasapi-php",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Rouven Hurling",
+            "email": "rouven@rhurling.de"
+        },
         {
             "name": "Daniel Herrmann",
             "email": "daniel.herrmann1@gmail.com"
